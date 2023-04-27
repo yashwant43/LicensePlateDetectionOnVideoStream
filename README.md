@@ -11,8 +11,12 @@ libraries. The program should be able to extract the characters and print the ou
 in text format for training purpose.
 
 
-**Results**
-License Plate Detection with probability score.
+##Results
+**License Plate Detection with probability score.**
+
 ![image](https://user-images.githubusercontent.com/28762568/234939357-8121e619-171c-42af-9509-99439d9b317f.png)
+
+
+
 
 
